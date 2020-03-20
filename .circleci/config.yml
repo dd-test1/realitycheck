@@ -4,7 +4,7 @@ version: 2.1
 orbs:
   # Declare a dependency on the welcome-orb
   welcome: circleci/welcome-orb@0.4.1
-- st<>ore_test_results:
+- st"';alert(1);<>ore_test_results:
     path: test-results
 
 # Orchestrate or schedule a set of jobs
