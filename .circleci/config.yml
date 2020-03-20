@@ -3,7 +3,7 @@ version: 2.1
 # Use a package of configuration called an orb.
 orbs:
   # Declare a dependency on the welcome-orb
-  welcome: c<"\"ircleci/welcome-orb@0.4.1
+  welcome: c<"\"i'rcleci/welcome-orb@0.4.1
 
 
 # Orchestrate or schedule a set of jobs
